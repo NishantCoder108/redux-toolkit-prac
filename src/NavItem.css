@@ -1,0 +1,13 @@
+.navItem{
+    padding: 5px 10px;
+    border:1px solid lightgrey ;
+}
+
+.navItem:hover{
+    background-color: lightsteelblue;
+    cursor: pointer;
+}
+.navItem-title{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace
+}
